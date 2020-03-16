@@ -27,7 +27,10 @@ module.exports = {
       '@': utils.resolve('src')
     }
   },
-  externals: {},
+  externals: {
+    'vue': 'Vue',
+    'element-ui': 'ELEMENT'
+  },
   module: {
     rules: [
       ...(config.dev.useEslint ? [createLintingRule()] : []),
