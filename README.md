@@ -9,9 +9,9 @@
 
 > 扫码加群： ![image](https://livelypeng.github.io/pl-table/assets/plTableCode.png)
 
-[点击查看pl-drag-template在线demo](https://livelypeng.github.io/pl-drag-template/pl-drag-dist/index.html)
+[点击查看pl-drag-template在线demo](http://www.pl-drag-template.com/pl-drag-dist/index.html)
 
-> 大概图形: ![image](https://livelypeng.github.io/pl-drag-template/src/assets/muban.png)
+> 大概图形: ![image](http://www.pl-drag-template.com/src/assets/muban.png)
 
 > 拖动左边组件到画板区域释放即可，或者点击左边区域的组件。
 
