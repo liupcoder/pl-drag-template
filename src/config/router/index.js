@@ -3,7 +3,7 @@ import Router from 'vue-router'
 Vue.use(Router)
 
 const router = new Router({
-  // base: CONTEXT_PATH,
+  base: CONTEXT_PATH,
   mode: 'history',
   routes: [
     {
