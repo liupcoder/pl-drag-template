@@ -9,7 +9,7 @@
 
 > 扫码加群： ![image](https://livelypeng.github.io/pl-table/assets/plTableCode.png)
 
-[点击查看pl-drag-template在线demo](https://livelypeng.github.io/pl-drag-template/pl-dist/index.html)
+[点击查看pl-drag-template在线demo](https://livelypeng.github.io/pl-drag-template/pl-drag-dist/index.html)
 
 > 大概图形: ![image](https://livelypeng.github.io/pl-drag-template/src/assets/muban.png)
 
