@@ -5,7 +5,7 @@
 
 > 一个h5可视化编辑器种子, 高仿凡科建站模板。
 
-> author: pl （更多问题请加入QQ交流群吧： 675286117）感谢点击上方的Star！！！
+> author: pl （刚刚才开源，更多问题请加入QQ交流群吧： 675286117）感谢点击上方的Star！！！
 
 [点击查看pl-drag-template在线demo](https://livelypeng.github.io/pl-drag-template/pl-drag-dist/index.html)
 
